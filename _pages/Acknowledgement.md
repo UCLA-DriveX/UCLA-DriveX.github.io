@@ -1,29 +1,19 @@
 ---
 layout: research
-permalink: /Community/
-title: Community
-page_title: Community
-nav: false
-nav_order: 3
+permalink: /Acknowledgement/
+title: Acknowledgement
+page_title: Acknowledgement
+nav: true
+nav_order: 5
 ---
 
-<div class="research-section">
-    <h3 style="text-align: left">COCO Robotics</h3>
-</div>
-
-<div class="research-section">
-    <h3 style="text-align: left">Comma.AI</h3>
-</div>
-
-<div class="research-section">
-    <h3 style="text-align: left">Department of Transportation</h3>
-    <ul style="list-style-type: none; padding-left: 0;">
-      The U.S. Department of Transportation (DOT) is partnering with us, utilizing OpenCDA within the DriveX ecosystem to support early-stage fundamental research in Connected and Automated Driving (CDA) development. In collaboration with the DOT's CDA Research and the FHWA CARMA Program, this tool provides unique capabilities to the CDA research community. It will also interface with the CARMA XiL tools being developed by the U.S. DOT, enabling more advanced simulation testing of CDA features.
-    </ul>
-
-    <div class="white-background">
-        <img src="/assets/img/DriveX/CARMA.png">
+<div class="row justify-content-center align-items-center">
+    <div class="col-xs-3 col-md-3 col-img">
+        <img src="/assets/img/DriveX/nsf.png" alt="NSF" class="logo">
     </div>
+    <div class="col-xs-4 col-md-4 col-img">
+        The workshop is supported by <b>NSF CCRI grants 2235012 and 2235013</b>.
+    </div> 
 </div>
 
 
