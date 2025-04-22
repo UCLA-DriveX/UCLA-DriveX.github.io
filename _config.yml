@@ -6,7 +6,7 @@ title: DriveX # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name: DriveX
-logo:
+logo: /assets/img/DriveX/DriveX.png
 email: jackhe313@g.ucla.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   MetaDriverse for AI and Autonomy Research!
@@ -419,3 +419,16 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
+
+
+section_nav:
+  - title: "Papers"
+    url: "#papers"
+  - title: "Software"
+    url: "#software"
+  - title: "Datasets"
+    url: "#datasets"
+  - title: "Outreach"
+    url: "#outreach"
+  - title: "Ackownledgement"
+    url: "#ackownledgement"
