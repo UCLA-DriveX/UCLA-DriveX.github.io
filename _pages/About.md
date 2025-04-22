@@ -128,15 +128,24 @@ to header!
 <div class="research-section">
     <h3 style="text-align: left">Workshops & Panels & Webinars</h3>
     <ul style="padding-left: 10;">
-        <li>Workshop at CVPR 2024</li>
-        <li>Workshop with UCB 2025</li>
+    <li>
+        <a href="https://metadriverse.github.io/ucla_ucb_workshop/" target="_blank" rel="noopener">
+        1st UCLA‑UCB Joint Workshop
+        </a>: Towards Next Generation of Open‑Source Simulator for Embodied AI and Autonomous Driving 2025
+    </li>
+    <li>
+        <a href="https://poets2024.github.io/" target="_blank" rel="noopener">
+        Workshop of Populating Empty Cities
+        </a> – Virtual Humans for Robotics and Autonomous Driving at CVPR 2024
+    </li>
     </ul>
+
 </div>
 
 <div class="research-section">
     <h3 style="text-align: left">Online Educational Resources</h3>
     <ul style="padding-left: 10;">
-        <li>Colab and Tutorial of MetaDrive</li>
+        <li><a href="https://metadrive-simulator.readthedocs.io/en/latest/" target="_blank" rel="noopener"> Colab and Tutorial of MetaDrive </a></li>
     </ul>
 </div>
 
@@ -150,7 +159,7 @@ to header!
         <img src="/assets/img/DriveX/nsf.png" alt="NSF" class="logo">
     </div>
     <div class="col-xs-4 col-md-4 col-img">
-        The workshop is supported by <b>NSF CCRI grants 2235012 and 2235013</b>.
+        The project is supported by <b> NSF Grants CNS-2235012, TI-2346267 and IIS-2339769</b>.
     </div> 
 </div>
 
