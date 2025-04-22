@@ -64,7 +64,7 @@ to header!
     <li>Realistic</li>
   </ul>
   <p>We construct a variety of RL tasks and baselines in both single-agent and multi-agent settings, including benchmarking generalizability across unseen scenes, safe exploration, and modeling multi-agent behaviors.</p>
-  <p>Empowered by <strong><em><a href="../scenarionet">ScenarioNet</a></em></strong>, all features of MetaDrive can be applied to the virtual environments reconstructed from the open-source dataset, such as Waymo Open Dataset, nuPlan, and L5.</p>
+  <p>Empowered by <strong><em><a href="https://metadriverse.github.io/scenarionet/">ScenarioNet</a></em></strong>, all features of MetaDrive can be applied to the virtual environments reconstructed from the open-source dataset, such as Waymo Open Dataset, nuPlan, and L5.</p>
 
   <br>
   
