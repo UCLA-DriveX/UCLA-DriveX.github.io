@@ -151,7 +151,7 @@ to header!
 
 
 <!--Outreach-->
-<h2 id="acknowledgement">Acknowledgement</h2>
+<h2 id="acknowledgment">Acknowledgment</h2>
 
 
 <div class="row justify-content-center align-items-center">
@@ -161,6 +161,13 @@ to header!
     <div class="col-xs-4 col-md-4 col-img">
         The project is supported by <b> NSF Grants CNS-2235012, TI-2346267 and IIS-2339769</b>.
     </div> 
+
+    <div class="col-xs-3 col-md-3 col-img">
+        <img src="/assets/img/DriveX/California Department of Transportation.png" alt="CDOT" class="logo">
+    </div>
+    <div class="col-xs-3 col-md-3 col-img">
+        <img src="/assets/img/DriveX/FHWA Center of Excellence on New Mobility and Automated Vehicles.webp" alt="FHWA" class="logo">
+    </div>
 </div>
 
 
